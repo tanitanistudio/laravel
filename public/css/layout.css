@@ -1,0 +1,3 @@
+.my-card-body{
+    height: calc(100vh - (55px + 48px) );
+}
